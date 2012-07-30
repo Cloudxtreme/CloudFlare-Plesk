@@ -3,6 +3,10 @@ CloudFlare-Plesk
 
 CloudFlare APS Package for Plesk
 
+3.0.0-21
+--------
+Updated version, resolve issue related to subscriptions and their activation through Plesk.
+
 3.0.0-20
 --------
 Updated version, assigns CloudFlare Host API key automatically.
