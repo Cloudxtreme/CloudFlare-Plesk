@@ -3,7 +3,12 @@ CloudFlare-Plesk
 
 CloudFlare APS Package for Plesk
 
+For complete installation instructions, go to: http://www.cloudflare.com/media/downloads/cloudflare-plesk-instructions.pdf
 
+3.0.0-23
+--------
+More versatile handling DNS records.  Will properly route traffic for cases where CNAME or A records are pointing to a location other than the 
+root domain.
 
 3.0.0-21
 --------
