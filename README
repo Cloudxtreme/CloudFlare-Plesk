@@ -5,6 +5,11 @@ CloudFlare APS Package for Plesk
 
 For complete installation instructions, go to: http://www.cloudflare.com/media/downloads/cloudflare-plesk-instructions.pdf
 
+3.0.0-25
+--------
+Brand renaming and link on post installation CloudFlare APS page, change the URL for installation instructions to:
+https://www.cloudflare.com/resources-downloads#plesk
+
 3.0.0-24
 --------
 On removal of CloudFlare, it will restore the original state of the DNS records before they were enabled on CloudFlare.
