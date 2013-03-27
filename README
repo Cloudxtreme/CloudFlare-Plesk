@@ -5,6 +5,10 @@ CloudFlare APS Package for Plesk
 
 For complete installation instructions, go to: http://www.cloudflare.com/media/downloads/cloudflare-plesk-instructions.pdf
 
+3.0.0-26
+--------
+Add proper assignment of the host public name (sets to value specified in Global Settings "Company Name") when hosting provider installs CloudFlare on Parallels Plesk.
+
 3.0.0-25
 --------
 Brand renaming and link on post installation CloudFlare APS page, change the URL for installation instructions to:
